@@ -1,2 +1,0 @@
-# Target
-Exercicios-Gupy
